@@ -1,0 +1,135 @@
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Please enter the SID, CID, name and four scores. Enter 0 to finish.
+Please enter the SID, CID, name and four scores. Enter 0 to finish.
+Please enter the SID, CID, name and four scores. Enter 0 to finish.
+Duplicated SID.
+Please enter the SID, CID, name and four scores. Enter 0 to finish.
+Please enter the SID, CID, name and four scores. Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Please enter SID or name. Enter 0 to finish.
+2 0022334455 1 Tom 59 72 60 81 272 68.00
+Please enter SID or name. Enter 0 to finish.
+1 0011223344 1 John 79 98 91 100 368 92.00
+3 2423475629 2 John 60 80 30 99 269 67.25
+Please enter SID or name. Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Please enter class ID, 0 for the whole statistics.
+Chinese
+Average Score: 69.00
+Number of passed students: 1
+Number of failed students: 1
+
+Mathematics
+Average Score: 85.00
+Number of passed students: 2
+Number of failed students: 0
+
+English
+Average Score: 75.50
+Number of passed students: 2
+Number of failed students: 0
+
+Programming
+Average Score: 90.50
+Number of passed students: 2
+Number of failed students: 0
+
+Overall:
+Number of students who passed all subjects: 1
+Number of students who passed 3 or more subjects: 2
+Number of students who passed 2 or more subjects: 3
+Number of students who passed 1 or more subjects: 2
+Number of students who failed all subjects: 0
+
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Please enter SID or name. Enter 0 to finish.
+1 student(s) removed.
+Please enter SID or name. Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Please enter class ID, 0 for the whole statistics.
+Chinese
+Average Score: 59.50
+Number of passed students: 1
+Number of failed students: 1
+
+Mathematics
+Average Score: 76.00
+Number of passed students: 2
+Number of failed students: 0
+
+English
+Average Score: 45.00
+Number of passed students: 1
+Number of failed students: 1
+
+Programming
+Average Score: 90.00
+Number of passed students: 2
+Number of failed students: 0
+
+Overall:
+Number of students who passed all subjects: 0
+Number of students who passed 3 or more subjects: 2
+Number of students who passed 2 or more subjects: 4
+Number of students who passed 1 or more subjects: 2
+Number of students who failed all subjects: 0
+
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+Showing the ranklist hurts students' self-esteem. Don't do that.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
