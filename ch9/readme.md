@@ -20,7 +20,7 @@
 
 [暂缺]9-7 UVa11584 Partitioning by Palindromes
 
-[暂缺]9-8 UVa1625 Color Length
+9-8 UVa1625 Color Length
 
 9-9 UVa10003 Cutting Sticks
 
@@ -48,7 +48,7 @@
 
 [暂缺]9-21 UVa1336 Fixing the Great Wall
 
-[暂缺]9-22 UVa12105 Bigger is Better
+9-22 UVa12105 Bigger is Better
 
 [暂缺]9-23 UVa1204 Fun Game
 
@@ -66,4 +66,4 @@
 
 [暂缺]9-30 UVa1375 The Best Name for Your Baby
 
-[暂缺]9-31 UVa1628 Pizza Delivery
+9-31 UVa1628 Pizza Delivery

@@ -8,11 +8,11 @@
 
 提交：http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853
 
-[暂缺]11-1 UVa12219 Common Subexpression Elimination
+11-1 UVa12219 Common Subexpression Elimination
 
 11-2 UVa1395 Slim Span
 
-[暂缺]11-3 UVa1151 Buy or Build
+11-3 UVa1151 Buy or Build
 
 11-4 UVa247 Calling Circles
 
@@ -30,10 +30,10 @@
 
 11-11 UVa12661 Funny Car Racing
 
-[暂缺]11-12 UVa1515 Pool construction
+11-12 UVa1515 Pool construction
 
 [暂缺]11-13 UVa10735 Euler Circuit
 
 [暂缺]11-14 UVa1279 Asteroid Rangers
 
-[暂缺]11-15 UVa1659 Help Little Laura
+11-15 UVa1659 Help Little Laura
