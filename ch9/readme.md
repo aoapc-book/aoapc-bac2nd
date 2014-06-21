@@ -14,7 +14,7 @@
 
 9-4 UVa116 Unidirectional TSP
 
-[暂缺]9-5 UVa12563 Jin Ge Jin Qu [h]ao
+9-5 UVa12563 Jin Ge Jin Qu [h]ao
 
 9-6 UVa11400 Lighting System Design
 
@@ -30,7 +30,7 @@
 
 9-12 UVa12186 Another Crisis
 
-[暂缺]9-13 UVa1220 Party at Hali-Bula
+9-13 UVa1220 Party at Hali-Bula
 
 [暂缺]9-14 UVa1218 Perfect Service
 
