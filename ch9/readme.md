@@ -18,7 +18,7 @@
 
 9-6 UVa11400 Lighting System Design
 
-[暂缺]9-7 UVa11584 Partitioning by Palindromes
+9-7 UVa11584 Partitioning by Palindromes
 
 9-8 UVa1625 Color Length
 
@@ -44,7 +44,7 @@
 
 [暂缺]9-19 UVa1627 Team them up!
 
-[暂缺]9-20 UVa10934 Dropping water balloons
+9-20 UVa10934 Dropping water balloons
 
 [暂缺]9-21 UVa1336 Fixing the Great Wall
 

@@ -32,7 +32,7 @@
 
 11-12 UVa1515 Pool construction
 
-[暂缺]11-13 UVa10735 Euler Circuit
+11-13 UVa10735 Euler Circuit
 
 [暂缺]11-14 UVa1279 Asteroid Rangers
 
