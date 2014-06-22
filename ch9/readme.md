@@ -32,11 +32,11 @@
 
 9-13 UVa1220 Party at Hali-Bula
 
-[暂缺]9-14 UVa1218 Perfect Service
+9-14 UVa1218 Perfect Service
 
 9-15 UVa10817 Headmaster's Headache
 
-[暂缺]9-16 UVa1252 Twenty Questions
+9-16 UVa1252 Twenty Questions
 
 9-17 UVa1412 Fund Management （附数据）
 
