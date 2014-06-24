@@ -40,9 +40,9 @@
 
 9-17 UVa1412 Fund Management （附数据）
 
-[暂缺]9-18 UVa10618 Tango Tango Insurrection
+9-18 UVa10618 Tango Tango Insurrection
 
-[暂缺]9-19 UVa1627 Team them up!
+9-19 UVa1627 Team them up!
 
 9-20 UVa10934 Dropping water balloons
 
