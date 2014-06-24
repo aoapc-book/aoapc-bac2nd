@@ -28,9 +28,9 @@
 
 8-11 UVa10954 Add All
 
-[暂缺]8-12 UVa12627 Erratic Expansion
+8-12 UVa12627 Erratic Expansion
 
-[暂缺]8-13 UVa11093 Just Finish it up
+8-13 UVa11093 Just Finish it up
 
 [暂缺]8-14 UVa1607 Gates
 
