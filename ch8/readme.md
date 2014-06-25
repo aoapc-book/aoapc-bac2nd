@@ -12,7 +12,7 @@
 
 8-3 UVa1152 4 Values Whose Sum is Zero
 
-[暂缺]8-4 UVa11134 Fabled Rooks
+8-4 UVa11134 Fabled Rooks
 
 8-5 UVa11054 Wine trading in Gergovia
 
@@ -24,7 +24,7 @@
 
 [暂缺]8-9 UVa1451 Average
 
-[暂缺]8-10 UVa714 Copying Books
+8-10 UVa714 Copying Books
 
 8-11 UVa10954 Add All
 

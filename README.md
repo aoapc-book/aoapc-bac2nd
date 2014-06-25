@@ -28,7 +28,7 @@ Chapter 6: 18/22
 
 Chapter 7: 7/15
 
-Chapter 8: 10/19
+Chapter 8: 12/19
 
 Chapter 9: 22/31
 
