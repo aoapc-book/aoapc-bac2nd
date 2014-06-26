@@ -16,7 +16,7 @@
 
 8-5 UVa11054 Wine trading in Gergovia
 
-[暂缺]8-6 UVa1606 Amphiphilic Carbon Molecules
+8-6 UVa1606 Amphiphilic Carbon Molecules
 
 8-7 UVa11572 Unique snowflakes
 
@@ -34,7 +34,7 @@
 
 [暂缺]8-14 UVa1607 Gates
 
-[暂缺]8-15 UVa12174 Shuffle
+8-15 UVa12174 Shuffle
 
 8-16 UVa1608 Non-boring sequences
 

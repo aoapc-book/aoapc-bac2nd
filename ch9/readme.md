@@ -46,7 +46,7 @@
 
 9-20 UVa10934 Dropping water balloons
 
-[暂缺]9-21 UVa1336 Fixing the Great Wall
+9-21 UVa1336 Fixing the Great Wall
 
 9-22 UVa12105 Bigger is Better
 

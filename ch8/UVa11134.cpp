@@ -1,10 +1,11 @@
+// UVa11134 Fabled Rooks
+// Rujia Liu
 #include<cstdio>
 #include<cstring>
 #include <algorithm>
 using namespace std;
 
 // solve 1-D problem: find c so that a[i] <= c[i] <= b[i] (0 <= i < n)
-// for each col, find a rook with smallest b that is not yet assigned
 bool solve(int *a, int *b, int *c, int n) {
   fill(c, c+n, -1);
   for(int col = 1; col <= n; col++) {
