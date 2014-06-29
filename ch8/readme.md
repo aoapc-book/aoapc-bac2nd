@@ -20,9 +20,9 @@
 
 8-7 UVa11572 Unique snowflakes
 
-[暂缺]8-8 UVa1471 Defense Lines
+8-8 UVa1471 Defense Lines
 
-[暂缺]8-9 UVa1451 Average
+8-9 UVa1451 Average
 
 8-10 UVa714 Copying Books
 
@@ -32,7 +32,7 @@
 
 8-13 UVa11093 Just Finish it up
 
-[暂缺]8-14 UVa1607 Gates
+8-14 UVa1607 Gates
 
 8-15 UVa12174 Shuffle
 

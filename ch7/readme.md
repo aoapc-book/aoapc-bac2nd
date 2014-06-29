@@ -50,15 +50,15 @@ egypt.cpp       - 埃及分数问题
 
 7-6 UVa140 Bandwidth
 
-[暂缺]7-7 UVa1354 Mobile Computing
+7-7 UVa1354 Mobile Computing
 
 7-8 UVa10603 Fill
 
 [暂缺]7-9 UVa1601 The Morning after Halloween
 
-[暂缺]7-10 UVa11212 Editing a Book
+7-10 UVa11212 Editing a Book
 
-[暂缺]7-11 UVa12325 Zombie's Treasure Chest
+7-11 UVa12325 Zombie's Treasure Chest
 
 [暂缺]7-12 UVa1343 The Rotation Game
 
