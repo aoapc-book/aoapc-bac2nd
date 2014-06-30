@@ -30,7 +30,7 @@
 
 6-12 UVa572 Oil Deposits
 
-[暂缺]6-13 UVa1103 Ancient Messages
+6-13 UVa1103 Ancient Messages
 
 6-14 UVa816 Abbott's Revenge
 
@@ -44,7 +44,7 @@
 
 [暂缺]6-19 UVa1572 Self-Assembly
 
-[暂缺]6-20 UVa1599 Ideal Path
+6-20 UVa1599 Ideal Path
 
 6-21 UVa506 System Dependencies
 

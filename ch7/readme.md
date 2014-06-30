@@ -60,7 +60,7 @@ egypt.cpp       - 埃及分数问题
 
 7-11 UVa12325 Zombie's Treasure Chest
 
-[暂缺]7-12 UVa1343 The Rotation Game
+7-12 UVa1343 The Rotation Game
 
 [暂缺]7-13 UVa1374 Power Calculus
 
