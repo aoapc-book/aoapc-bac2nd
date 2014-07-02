@@ -40,9 +40,9 @@
 
 6-17 UVa10562 Undraw the Trees
 
-[暂缺]6-18 UVa12171 Sculpture
+6-18 UVa12171 Sculpture
 
-[暂缺]6-19 UVa1572 Self-Assembly
+6-19 UVa1572 Self-Assembly
 
 6-20 UVa1599 Ideal Path
 

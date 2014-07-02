@@ -60,7 +60,7 @@
 
 [暂缺]9-27 UVa10559 Blocks
 
-[暂缺]9-28 UVa1439 Exclusive Access 2
+9-28 UVa1439 Exclusive Access 2
 
 [暂缺]9-29 UVa1228 Integer Transmission
 

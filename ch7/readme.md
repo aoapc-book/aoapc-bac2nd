@@ -54,7 +54,7 @@ egypt.cpp       - 埃及分数问题
 
 7-8 UVa10603 Fill
 
-[暂缺]7-9 UVa1601 The Morning after Halloween
+7-9 UVa1601 The Morning after Halloween
 
 7-10 UVa11212 Editing a Book
 
@@ -64,6 +64,6 @@ egypt.cpp       - 埃及分数问题
 
 [暂缺]7-13 UVa1374 Power Calculus
 
-[暂缺]7-14 UVa1602 Lattice Animals
+7-14 UVa1602 Lattice Animals
 
 [暂缺]7-15 UVa1603 Square Destroyer
