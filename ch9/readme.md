@@ -58,11 +58,11 @@
 
 [暂缺]9-26 UVa1380 A Scheduling Problem
 
-[暂缺]9-27 UVa10559 Blocks
+9-27 UVa10559 Blocks
 
 9-28 UVa1439 Exclusive Access 2
 
-[暂缺]9-29 UVa1228 Integer Transmission
+9-29 UVa1228 Integer Transmission
 
 [暂缺]9-30 UVa1375 The Best Name for Your Baby
 

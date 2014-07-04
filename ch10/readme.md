@@ -20,7 +20,7 @@
 
 10-7 UVa10820 Send a Table
 
-[暂缺]10-8 UVa1262 Password
+10-8 UVa1262 Password
 
 10-9 UV1636 Headshot
 
@@ -28,7 +28,7 @@
 
 10-11 UVa11181 Probability|Given
 
-[暂缺]10-12 UVa1637 Double Patience
+10-12 UVa1637 Double Patience
 
 10-13 UVa580 Critical Mass
 
@@ -48,7 +48,7 @@
 
 10-21 UVa11971 Polygon
 
-[暂缺]10-22 UVa1640 The Counting Problem
+10-22 UVa1640 The Counting Problem
 
 10-23 UVa10213 How Many Pieces of Land?
 
