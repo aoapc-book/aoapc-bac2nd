@@ -58,8 +58,8 @@
 
 10-26 UVa11440 Help Mr. Tomisu （附数据）
 
-[暂缺]10-27 UVa10214 Trees in a Wood
+10-27 UVa10214 Trees in a Wood
 
 10-28 UVa1393 Highway
 
-[暂缺]10-29 UVa1642 Magical GCD
+10-29 UVa1642 Magical GCD
