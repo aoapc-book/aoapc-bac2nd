@@ -30,10 +30,10 @@ Chapter 7: 13/15
 
 Chapter 8: 17/19
 
-Chapter 9: 26/31
+Chapter 9: 28/31
 
 Chapter 10: 29/29
 
-Chapter 11: 14/15
+Chapter 11: 15/15
 
 Chapter 12: 0/37

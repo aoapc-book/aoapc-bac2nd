@@ -34,6 +34,6 @@
 
 11-13 UVa10735 Euler Circuit
 
-[暂缺]11-14 UVa1279 Asteroid Rangers
+11-14 UVa1279 Asteroid Rangers
 
 11-15 UVa1659 Help Little Laura

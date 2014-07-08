@@ -52,9 +52,9 @@
 
 [暂缺]9-23 UVa1204 Fun Game
 
-[暂缺]9-24 UVa12099 Bookcase
+9-24 UVa12099 Bookcase
 
-[暂缺]9-25 UVa12170 Easy Climb
+9-25 UVa12170 Easy Climb
 
 [暂缺]9-26 UVa1380 A Scheduling Problem
 
