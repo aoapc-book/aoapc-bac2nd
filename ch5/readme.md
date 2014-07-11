@@ -40,7 +40,7 @@ test_stream.cpp - 测试sstream
 
 5-9 UVa1592 Database
 
-[暂缺]5-10 UVa207 PGA Tour Prize Money
+5-10 UVa207 PGA Tour Prize Money
 
 5-11 UVa814 The Letter Carrier's Rounds
 

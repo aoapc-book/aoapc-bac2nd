@@ -50,7 +50,7 @@
 
 9-22 UVa12105 Bigger is Better
 
-[暂缺]9-23 UVa1204 Fun Game
+9-23 UVa1204 Fun Game
 
 9-24 UVa12099 Bookcase
 

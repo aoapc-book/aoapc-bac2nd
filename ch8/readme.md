@@ -38,8 +38,8 @@
 
 8-16 UVa1608 Non-boring sequences
 
-[暂缺]8-17 UVa1609 Foul Play
+8-17 UVa1609 Foul Play
 
 8-18 UVa1442 Cave
 
-[暂缺]8-19 UVa12265 Selling Land
+8-19 UVa12265 Selling Land

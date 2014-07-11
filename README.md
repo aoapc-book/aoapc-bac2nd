@@ -22,15 +22,15 @@ Chapter 3: 6/6
 
 Chapter 4: 6/6
 
-Chapter 5: 11/12
+Chapter 5: 12/12
 
 Chapter 6: 22/22
 
 Chapter 7: 13/15
 
-Chapter 8: 17/19
+Chapter 8: 19/19
 
-Chapter 9: 28/31
+Chapter 9: 29/31
 
 Chapter 10: 29/29
 
