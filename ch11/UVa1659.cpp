@@ -1,6 +1,6 @@
-// UVa1659 Help Little Laura
+ï»¿// UVa1659 Help Little Laura
 // Rujia Liu
-// Ëã·¨Ò»£º¸ÄÔìÍøÂç£¬È¥µô¸ºÈ¨
+// ç®—æ³•ä¸€ï¼šæ”¹é€ ç½‘ç»œï¼Œå»æ‰è´Ÿæƒ
 #include<cstdio>
 #include<cmath>
 #include<cstring>
@@ -23,10 +23,10 @@ struct MCMF {
   int n, m;
   vector<Edge> edges;
   vector<int> G[maxn];
-  int inq[maxn];         // ÊÇ·ñÔÚ¶ÓÁĞÖĞ
+  int inq[maxn];         // æ˜¯å¦åœ¨é˜Ÿåˆ—ä¸­
   double d[maxn];        // Bellman-Ford
-  int p[maxn];           // ÉÏÒ»Ìõ»¡
-  int a[maxn];           // ¿É¸Ä½øÁ¿
+  int p[maxn];           // ä¸Šä¸€æ¡å¼§
+  int a[maxn];           // å¯æ”¹è¿›é‡
 
   void init(int n) {
     this->n = n;
@@ -72,7 +72,7 @@ struct MCMF {
     return true;
   }
 
-  // ĞèÒª±£Ö¤³õÊ¼ÍøÂçÖĞÃ»ÓĞ¸ºÈ¨È¦
+  // éœ€è¦ä¿è¯åˆå§‹ç½‘ç»œä¸­æ²¡æœ‰è´Ÿæƒåœˆ
   int MincostMaxflow(int s, int t, double& cost) {
     int flow = 0; cost = 0;
     while(BellmanFord(s, t, flow, cost));

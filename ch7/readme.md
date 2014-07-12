@@ -62,7 +62,7 @@ egypt.cpp       - 埃及分数问题
 
 7-12 UVa1343 The Rotation Game
 
-[暂缺]7-13 UVa1374 Power Calculus
+7-13 UVa1374 Power Calculus
 
 7-14 UVa1602 Lattice Animals
 

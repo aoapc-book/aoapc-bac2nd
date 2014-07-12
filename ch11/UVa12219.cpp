@@ -1,4 +1,4 @@
-// UVa12219 Common Subexpression Elimination
+ï»¿// UVa12219 Common Subexpression Elimination
 // Rujia Liu
 
 #include<cstdio>
@@ -9,7 +9,7 @@ using namespace std;
 const int maxn = 60000;
 int T, kase, cnt;
 char expr[maxn*5], *p;
-int done[maxn]; // ¸Ã½áµãÊÇ·ñÒÑÊä³ö
+int done[maxn]; // è¯¥ç»“ç‚¹æ˜¯å¦å·²è¾“å‡º
 
 struct Node {
   string s;
@@ -48,7 +48,7 @@ void print(int v) {
   if(done[v] == kase)
     printf("%d", v + 1);
   else {      
-    done[v] = kase; // ³£¼ûĞ¡¼¼ÇÉ£¬¿ÉÒÔ±ÜÃâmemset(done, 0, sizeof(done))
+    done[v] = kase; // å¸¸è§å°æŠ€å·§ï¼Œå¯ä»¥é¿å…memset(done, 0, sizeof(done))
     printf("%s", node[v].s.c_str());
     if(node[v].left != -1) {
       putchar('(');

@@ -1,7 +1,7 @@
-// UVa1515 Pool Construction
+ï»¿// UVa1515 Pool Construction
 // Rujia Liu
-// ÒòÎªÍ¼½Ï´ó£¬ËùÒÔ²ÉÓÃDinic¶ø²»ÊÇEdmondsKarp
-// µÃÒæÓÚ½Ó¿ÚÒ»ÖÂĞÔ£¬¶ÁÕßÎŞĞëÀí½âDinic¾ÍÄÜÊ¹ÓÃËü¡£
+// å› ä¸ºå›¾è¾ƒå¤§ï¼Œæ‰€ä»¥é‡‡ç”¨Dinicè€Œä¸æ˜¯EdmondsKarp
+// å¾—ç›Šäºæ¥å£ä¸€è‡´æ€§ï¼Œè¯»è€…æ— é¡»ç†è§£Dinicå°±èƒ½ä½¿ç”¨å®ƒã€‚
 #include<cstdio>
 #include<cstring>
 #include<queue>
@@ -22,11 +22,11 @@ bool operator < (const Edge& a, const Edge& b) {
 
 struct Dinic {
   int n, m, s, t;
-  vector<Edge> edges;    // ±ßÊıµÄÁ½±¶
-  vector<int> G[maxn];   // ÁÚ½Ó±í£¬G[i][j]±íÊ¾½áµãiµÄµÚjÌõ±ßÔÚeÊı×éÖĞµÄĞòºÅ
-  bool vis[maxn];        // BFSÊ¹ÓÃ
-  int d[maxn];           // ´ÓÆğµãµ½iµÄ¾àÀë
-  int cur[maxn];         // µ±Ç°»¡Ö¸Õë
+  vector<Edge> edges;    // è¾¹æ•°çš„ä¸¤å€
+  vector<int> G[maxn];   // é‚»æ¥è¡¨ï¼ŒG[i][j]è¡¨ç¤ºç»“ç‚¹içš„ç¬¬jæ¡è¾¹åœ¨eæ•°ç»„ä¸­çš„åºå·
+  bool vis[maxn];        // BFSä½¿ç”¨
+  int d[maxn];           // ä»èµ·ç‚¹åˆ°içš„è·ç¦»
+  int cur[maxn];         // å½“å‰å¼§æŒ‡é’ˆ
 
   void init(int n) {
     for(int i = 0; i < n; i++) G[i].clear();
