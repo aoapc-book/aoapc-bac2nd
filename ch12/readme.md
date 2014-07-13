@@ -20,7 +20,7 @@
 
 [暂缺]12-6 UVa1674 Lightning Energy Report
 
-[暂缺]12-7 UVa12538 Version Controlled IDE
+12-7 UVa12538 Version Controlled IDE
 
 [暂缺]12-8 UVa805 Polygon Intersections
 

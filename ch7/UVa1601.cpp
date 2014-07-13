@@ -1,6 +1,7 @@
 // UVa1601 The Morning after Halloween
 // Rujia Liu
-
+// This code implements the simpliest yet efficient-enough algorithm I'm aware of
+// Readers are encouraged to experiment on other algorithms (especially for better efficiency!)
 #include<cstdio>
 #include<cstring>
 #include<cctype>
@@ -11,13 +12,6 @@ const int maxs = 20;
 const int maxn = 150; // 75% cells plus 2 fake nodes
 const int dx[]={1,-1,0,0,0}; // 4 moves, plus "no move"
 const int dy[]={0,0,1,-1,0};
-
-/*
-char S[16][22];
-int id[16][16],pos[MAXN][2],nums;
-int adj[MAXN][5],deg[MAXN];
-int Q[MAXN*MAXN*MAXN],head,tail;
-*/
 
 inline int ID(int a, int b, int c) {
   return (a<<16)|(b<<8)|c;
