@@ -66,4 +66,4 @@ egypt.cpp       - 埃及分数问题
 
 7-14 UVa1602 Lattice Animals
 
-[暂缺]7-15 UVa1603 Square Destroyer
+7-15 UVa1603 Square Destroyer
