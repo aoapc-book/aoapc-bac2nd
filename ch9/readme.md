@@ -56,7 +56,7 @@
 
 9-25 UVa12170 Easy Climb
 
-[暂缺]9-26 UVa1380 A Scheduling Problem
+9-26 UVa1380 A Scheduling Problem
 
 9-27 UVa10559 Blocks
 
@@ -64,6 +64,6 @@
 
 9-29 UVa1228 Integer Transmission
 
-[暂缺]9-30 UVa1375 The Best Name for Your Baby
+9-30 UVa1375 The Best Name for Your Baby
 
 9-31 UVa1628 Pizza Delivery

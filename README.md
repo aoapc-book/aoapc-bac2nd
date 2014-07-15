@@ -11,10 +11,6 @@ Though the book is in Chinese only, examples and exercises can be submitted to U
 
 http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 
-Currently some codes are missing. I'm slowly adding those codes, but only when I have time.
-
-If you're curious to see some particular code, email to aoapcbook@163.com and I'll try to give it some priority.
-
 Current Status
 ==============
 
@@ -30,10 +26,14 @@ Chapter 7: 15/15
 
 Chapter 8: 19/19
 
-Chapter 9: 29/31
+Chapter 9: 31/31
 
 Chapter 10: 29/29
 
 Chapter 11: 15/15
 
 Chapter 12: 1/37
+
+Only chapter 12 is not finished. However, problems in this chapter is considerably more difficult,
+
+so they'll be filled VERY slowly. Sorry.
