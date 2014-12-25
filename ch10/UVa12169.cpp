@@ -1,5 +1,7 @@
 // UVa12169 Disgruntled Judge (slow solution)
 // Rujia Liu
+//
+// rev2. fixed bug reported by EndlessCheng
 
 #include<iostream>
 using namespace std;
@@ -14,7 +16,7 @@ void solve() {
       bool ok = true;
       for(int i = 2; i <= T*2; i += 2) {
         x[i] = (a*x[i-1] + b) % M;
-        if(x[i+1] != (a*x[i] + b) % M) { ok = false; break; }
+        if(i+1 <= T*2 && x[i+1] != (a*x[i] + b) % M) { ok = false; break; }
       }
       if(ok) return;
     }
@@ -24,7 +26,7 @@ int main () {
   while(cin >> T) {
     for(int i = 1; i <= T*2-1; i += 2) cin >> x[i];
     solve();
-    for(int i = 2; i <= T*2; i++) cout << x[i] << "\n";
+    for(int i = 2; i <= T*2; i += 2) cout << x[i] << "\n";
   }
   return 0;
 }

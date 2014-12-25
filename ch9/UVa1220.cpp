@@ -1,5 +1,7 @@
 // UVa1220 Party at Hali-Bula
 // Rujia Liu
+//
+// rev 2: fixed bug reported by EndlessCheng
 #include<cstdio>
 #include<iostream>
 #include<string>
@@ -53,7 +55,7 @@ int main() {
     printf("%d ", max(dp(0, 0), dp(0, 1)));
     bool unique = false;
     if(d[0][0] > d[0][1] && f[0][0]) unique = true;
-    if(d[0][1] > d[0][0] && f[1][0]) unique = true;
+    if(d[0][1] > d[0][0] && f[0][1]) unique = true;
     if(unique) printf("Yes\n"); else printf("No\n");
   }
   return 0;

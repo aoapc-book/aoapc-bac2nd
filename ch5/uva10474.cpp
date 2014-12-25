@@ -1,5 +1,7 @@
 ﻿// UVa10474 Where is the Marble?
 // Rujia Liu
+//
+// rev 2. fixed bug reported by EndlessCheng
 #include<cstdio>
 #include<algorithm>
 using namespace std;
@@ -15,7 +17,7 @@ int main() {
     while(q--) {
       scanf("%d", &x);
       int p = lower_bound(a, a+n, x) - a; // 在已排序数组a中寻找x
-      if(a[p] == x) printf("%d found at %d\n", x, p+1);
+      if(p < n && a[p] == x) printf("%d found at %d\n", x, p+1);
       else printf("%d not found\n", x);
     }
   }
