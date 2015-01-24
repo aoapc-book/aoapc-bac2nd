@@ -8,9 +8,9 @@
 
 提交：http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856
 
-[暂缺]12-1 UVa1671 History of Languages
+12-1 UVa1671 History of Languages
 
-[暂缺]12-2 UVa1672 Disjoint Regular Expressions
+12-2 UVa1672 Disjoint Regular Expressions
 
 [暂缺]12-3 UVa1673 str2int
 
