@@ -32,7 +32,7 @@ Chapter 10: 29/29
 
 Chapter 11: 15/15
 
-Chapter 12: 1/37
+Chapter 12: 4/37
 
 Only chapter 12 is not finished. However, problems in this chapter is considerably more difficult,
 

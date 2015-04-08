@@ -12,7 +12,7 @@
 
 12-2 UVa1672 Disjoint Regular Expressions
 
-[暂缺]12-3 UVa1673 str2int
+12-3 UVa1673 str2int
 
 [暂缺]12-4 UVa12161 Ironman Race in Treeland
 
