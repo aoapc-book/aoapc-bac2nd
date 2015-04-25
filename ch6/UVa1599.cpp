@@ -95,7 +95,7 @@ void bfs() {
 int main() {
   int u, v, c, m;
   while(scanf("%d%d", &n, &m) == 2) {
-    edges.size();
+    edges.clear();
     for(int i = 0; i < n; i++) G[i].clear();
     while(m--) {
       scanf("%d%d%d", &u, &v, &c);
