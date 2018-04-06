@@ -10,7 +10,7 @@ struct BigInteger {
   vector<int> s;
 
   BigInteger(long long num = 0) { *this = num; } // 构造函数
-  BigInteger operator = (long long num) { // 赋值运算符
+  BigInteger& operator = (long long num) { // 赋值运算符
     s.clear();
     do {
       s.push_back(num % BASE);
@@ -18,7 +18,7 @@ struct BigInteger {
     } while(num > 0);
     return *this;
   }
-  BigInteger operator = (const string& str) { // 赋值运算符
+  BigInteger& operator = (const string& str) { // 赋值运算符
     s.clear();
     int x, len = (str.length() - 1) / WIDTH + 1;
     for(int i = 0; i < len; i++) {
