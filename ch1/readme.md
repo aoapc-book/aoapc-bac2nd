@@ -1,10 +1,12 @@
-﻿[Contest of Algrithm Clasic Introduction] 2nd Edition sample codes
+﻿&lt;&lt;Contest of Algrithm Clasic Introduction>> 2nd Edition sample codes
+============
 
 shuishiyuan
 
 Chapter 1
 
 examples + exercises + other programs
+==============
 
 PS:All the codes can be compiled through C99 or C++, in order to agree with chapters afterwards, postfix is all made cpp.
 
