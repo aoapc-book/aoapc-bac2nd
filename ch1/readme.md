@@ -1,4 +1,4 @@
-﻿<Contest of Algrithm Clasic Introduction> 2nd Edition sample codes
+﻿[Contest of Algrithm Clasic Introduction] 2nd Edition sample codes
 
 shuishiyuan
 
