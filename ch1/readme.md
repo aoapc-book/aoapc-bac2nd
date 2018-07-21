@@ -15,3 +15,5 @@ ch1-pg2. Computing 8.0/5.0
 ch1-pg3. Computing Math Expression with Sqrt
 
 ch1-pg4. Input a and b Output a+b
+
+ch1-pg5. Computing the Surface Area of a cylinder
