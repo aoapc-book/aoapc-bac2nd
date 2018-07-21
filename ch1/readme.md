@@ -17,3 +17,7 @@ ch1-pg3. Computing Math Expression with Sqrt
 ch1-pg4. Input a and b Output a+b
 
 ch1-pg5-exam1. Computing the Surface Area of a cylinder
+
+ch1-pg6-exam2. Reversing 3 digits number physically
+
+ch1-pg7-exam2. Reversing 3 digits number logically
