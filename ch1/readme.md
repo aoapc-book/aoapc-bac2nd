@@ -16,4 +16,4 @@ ch1-pg3. Computing Math Expression with Sqrt
 
 ch1-pg4. Input a and b Output a+b
 
-ch1-pg5. Computing the Surface Area of a cylinder
+ch1-pg5-exam1. Computing the Surface Area of a cylinder
