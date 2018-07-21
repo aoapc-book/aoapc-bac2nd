@@ -11,3 +11,5 @@ examples + exercises + other programs
 ch1-pg1. Computing 1+2
 
 ch1-pg2. Computing 8.0/5.0
+
+ch1-pg3. Computing Math Expression with Sqrt
