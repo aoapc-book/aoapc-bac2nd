@@ -27,3 +27,5 @@ ch1-pg8-exam3. Reversing 2 variables with temp
 ch1-pg9-exam3. Reversing 2 variables without temp
 
 ch1-pg10-exam3. Reversing 2 variables as KISS
+
+ch1-pg11-exam4. Chicken rabbit with cages
