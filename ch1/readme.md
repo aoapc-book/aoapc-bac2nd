@@ -39,3 +39,5 @@ ch1-pg14-exam5. Sorting three integers can be same with compare and change
 ch1-pg15. Testing the std input and output
 
 ch1-pg16-exer1. Calculating the average of three integers
+
+ch1-pg17-exer2. Changing temperature from fahrenheit to celsius
