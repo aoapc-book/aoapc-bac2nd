@@ -14,7 +14,7 @@ http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=82
 Current Status
 ==============
 
-Chapter 1: 14/22
+Chapter 1: 15/22
 
 Chapter 3: 6/6
 

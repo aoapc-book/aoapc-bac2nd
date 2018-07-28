@@ -35,3 +35,5 @@ ch1-pg12-exam5. Sorting three different integers
 ch1-pg13-exam5. Sorting three integers can be same 
 
 ch1-pg14-exam5. Sorting three integers can be same with compare and change 
+
+ch1-pg15. Testing the std input and output
