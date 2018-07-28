@@ -21,3 +21,9 @@ ch1-pg5-exam1. Computing the Surface Area of a cylinder
 ch1-pg6-exam2. Reversing 3 digits number physically
 
 ch1-pg7-exam2. Reversing 3 digits number logically
+
+ch1-pg8-exam3. Reversing 2 variables with temp
+
+ch1-pg9-exam3. Reversing 2 variables without temp
+
+ch1-pg10-exam3. Reversing 2 variables as KISS
