@@ -29,3 +29,9 @@ ch1-pg9-exam3. Reversing 2 variables without temp
 ch1-pg10-exam3. Reversing 2 variables as KISS
 
 ch1-pg11-exam4. Chicken rabbit with cages
+
+ch1-pg12-exam5. Sorting three different integers 
+
+ch1-pg13-exam5. Sorting three integers can be same 
+
+ch1-pg14-exam5. Sorting three integers can be same with compare and change 
