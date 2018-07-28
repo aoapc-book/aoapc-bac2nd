@@ -41,3 +41,5 @@ ch1-pg15. Testing the std input and output
 ch1-pg16-exer1. Calculating the average of three integers
 
 ch1-pg17-exer2. Changing temperature from fahrenheit to celsius
+
+ch1-pg18-exer3. Calculating the continous sum from 1 to n
