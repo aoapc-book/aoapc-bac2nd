@@ -47,3 +47,5 @@ ch1-pg18-exer3. Calculating the continous sum from 1 to n
 ch1-pg19-exer4. Calculating the sin and cos of n < 360
 
 ch1-pg20-exer5. Calculating the discount
+
+ch1-pg21-exer6. Judging the triangle
