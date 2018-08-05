@@ -45,3 +45,5 @@ ch1-pg17-exer2. Changing temperature from fahrenheit to celsius
 ch1-pg18-exer3. Calculating the continous sum from 1 to n
 
 ch1-pg19-exer4. Calculating the sin and cos of n < 360
+
+ch1-pg20-exer5. Calculating the discount
