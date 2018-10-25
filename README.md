@@ -15,23 +15,3 @@ Current Status
 ==============
 
 Chapter 1: 22/22
-
-Chapter 3: 6/6
-
-Chapter 4: 6/6
-
-Chapter 5: 12/12
-
-Chapter 6: 22/22
-
-Chapter 7: 15/15
-
-Chapter 8: 19/19
-
-Chapter 9: 31/31
-
-Chapter 10: 29/29
-
-Chapter 11: 15/15
-
-Chapter 12: 4/37
