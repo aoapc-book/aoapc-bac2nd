@@ -1,24 +1,40 @@
 ﻿&lt;&lt;BeginningAlgorithmContests>> 2nd Edition sample codes
 ============
-PS:All the codes can be compiled through C99 or C++, in order to agree with chapters afterwards, postfix is all made cpp.
+PS:All the codes can be compiled through gcc(-c++) 4.8.5, nodeJs v6.14.3, pythonu3.6.5 in order to agree with chapters afterwards, postfix is all made cpp, js, py.
 
 shuishiyuan
 
-Chapter 1
-
-examples + exercises + other programs
+# Chapter 1 (examples + exercises + other programs)
 ==============
-ch1-pg1. Computing 1+2
+## Computing 1+2
+### ch1-pg1.cpp
+### ch1-pg1.js
+### ch1-pg1.py
 
-ch1-pg2. Computing 8.0/5.0
+## Computing 8.0/5.0
+### ch1-pg2.cpp
+### ch1-pg2.js
+### ch1-pg2.py
 
-ch1-pg3. Computing Math Expression with Sqrt
+## Computing Math Expression with Sqrt
+### ch1-pg3.cpp
+### ch1-pg3.js
+### ch1-pg3.py
 
-ch1-pg4. Input a and b Output a+b
+## Input a and b Output a+b
+### ch1-pg4.cpp
+### ch1-pg4.js
+### ch1-pg4.py
 
-ch1-pg5-exam1. Computing the Surface Area of a cylinder
+## Computing the Surface Area of a cylinder
+### ch1-pg5-exam1.cpp
+### ch1-pg5-exam1.c
+### ch1-pg5-exam1.js
+### ch1-pg5-exam1.py
 
-ch1-pg6-exam2. Reversing 3 digits number physically
+## Reversing 3 digits number physically
+### ch1-pg6-exam2.cpp
+### ch1-pg6-exam2.py
 
 ch1-pg7-exam2. Reversing 3 digits number logically
 
