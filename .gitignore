@@ -1,2 +1,5 @@
 **/bin/*
 *.swp
+.viminfo
+.bash_history
+.gitconfig

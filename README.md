@@ -16,7 +16,9 @@ Current Status
 
 Chapter 1: 22/22
 
-Chapter 3: 6/6
+Chapter 2: 20/20
+
+Chapter 3: 24/25
 
 Chapter 4: 6/6
 
