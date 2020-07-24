@@ -1,7 +1,7 @@
 aoapc-bac2nd
 ============
 
-Source codes for book _BeginningAlgorithmContests (2nd edition)_
+Source codes for book _Beginning Algorithm Contests (2nd edition)_
 
 Where to buy the book?
 
