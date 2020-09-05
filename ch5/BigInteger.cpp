@@ -42,8 +42,33 @@ struct BigInteger {
     }
     return c;
   }
+  BigInteger operator - () const {
+     s[0]=-s[0];
+  }
+  BigInteger operator - (const BigInteger& b) const { 
+    return (*this)+(-b);
+  }
+  BigInteger operator * (const BigInteger& b) const {
+    BigInteger c;
+    for(BigInteger i=1;i<=b;i=i+1)c=c+b;
+    return c;
+  }
+  BigInteger operator * (const int& b) const {
+    BigInteger c;
+    for(int i=1;i<=b;i=i+1)c=c+b;
+    return c;
+  }
+  BigInteger operator / (const BigInteger& b) const {
+    BigInteger c=*this;
+    for(BigInteger i=1;i<=b;i=i+1)c=c-b;
+    return c;
+  }
+  BigInteger operator / (const int& b) const {
+    BigInteger c=*this;
+    for(int i=1;i<=b;i=i+1)c=c+b;
+    return c;
+  }
 };
-
 ostream& operator << (ostream &out, const BigInteger& x) {
   out << x.s.back();
   for(int i = x.s.size()-2; i >= 0; i--) {
