@@ -1,14 +1,12 @@
-﻿#include<cstdio>
+#include<cstdio>
 #include<cstring>
 #include<vector>
 #include<iostream>
 using namespace std;
-
 struct BigInteger {
   static const int BASE = 100000000;
   static const int WIDTH = 8;
   vector<int> s;
-
   BigInteger(long long num = 0) { *this = num; } // 构造函数
   BigInteger operator = (long long num) { // 赋值运算符
     s.clear();
@@ -42,6 +40,35 @@ struct BigInteger {
     }
     return c;
   }
+  BigInteger operator - () const {
+     s.back()=-s.back();
+  }
+  BigInteger operator - (const BigInteger& b) const { 
+    return (*this)+(-b);
+  }
+  BigInteger operator * (const BigInteger& b) const {
+    BigInteger c;
+    for(BigInteger i=1;i<=b;i=i+1)c=c+*this;
+    return c;
+  }
+  BigInteger operator / (const BigInteger& b) const {
+    BigInteger c=*this,i;
+    for(i=0;c>0;i++)c-=b;
+    return i-1;
+  }
+  BigInteger operator % (const BigInteger& b) const {
+    return *this-(*this/b*b);
+  }
+  bool operator < (const BigInteger& b) const {
+    if(s.size() != b.s.size())return s.size() < b.s.size();
+    for(int i = s.size()-1;i>=0;i--)
+      if(s[i] != b.s[i])return s[i] < b.s[i];
+    return false;
+  }
+  bool operator >(const BigInteger& b) const {return b < *this;}
+  bool operator >=(const BigInteger& b) const {return !(*this < b);}
+  bool operator <=(const BigInteger& b) const {return !(b < *this);}
+  bool operator ==(const BigInteger& b) const (return (b <= *this)&&(*this <= b);}
 };
 
 ostream& operator << (ostream &out, const BigInteger& x) {
@@ -53,24 +80,20 @@ ostream& operator << (ostream &out, const BigInteger& x) {
   }
   return out;
 }
-
 istream& operator >> (istream &in, BigInteger& x) {
   string s;
   if(!(in >> s)) return in;
   x = s;
   return in;
 }
-
 #include<set>
 #include<map>
 set<BigInteger> s;
 map<BigInteger, int> m;
-
 int main() {
   BigInteger y;
   BigInteger x = y;
   BigInteger z = 123;
-
   BigInteger a, b;
   cin >> a >> b;
   cout << a + b << "\n";
