@@ -16,8 +16,8 @@ consoleLineReader.on("line", input => {
     }
     if (counter === 2) {
         b = input;
-	console.log(parseInt(a) + parseInt(b));
-    consoleLineReader.close();
+        console.log(parseInt(a) + parseInt(b));
+        consoleLineReader.close();
     }
 });
 
