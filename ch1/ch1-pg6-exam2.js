@@ -10,6 +10,6 @@ let num;
 
 consLineRd.on("line", input => {
     num = parseInt(input);
-    console.log(num % 10, Math.floor(num / 10) % 10, num / 100);
+    console.log(`${num % 10}${Math.floor(num / 10) % 10}${Math.floor(num / 100)}`);
     consLineRd.close();
 });
