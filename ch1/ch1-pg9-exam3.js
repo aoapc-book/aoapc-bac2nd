@@ -12,10 +12,10 @@ let b = 0;
 
 cslLnrd.on("line", input => {
     if (cnt == 1) {
-        a = input;
+        a = parseInt(input);
     }
     if (cnt == 2) {
-        b = input;
+        b = parseInt(input);
         b = a + b;
         a = b - a;
         b = b - a;
