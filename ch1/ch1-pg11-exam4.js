@@ -16,9 +16,16 @@ let counter = 1;
 consolLnrd.on("line", input => {
     if (counter == 1) {
         numOfHeads = input;
+        if (numOfHeads % 2 != 0) {
+            console.log("The number of heads should be divided by 2");
+            counter--;
+        }
     }
     if (counter == 2) {
         numOfLegs = input;
+        numOfRabits = numOfLegs / 2 - numOfHeads;
+        numOfChicken = numOfHeads - numOfRabits;
+
         console.log("The number of heads is:", `${numOfHeads}`);
         console.log("The number of legs is:", `${numOfLegs}`);
         console.log("The number of chicken is:", `${numOfChicken}`);
