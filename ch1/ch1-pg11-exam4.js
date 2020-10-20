@@ -23,14 +23,24 @@ consolLnrd.on("line", input => {
     }
     if (counter == 2) {
         numOfLegs = input;
-        numOfRabits = numOfLegs / 2 - numOfHeads;
-        numOfChicken = numOfHeads - numOfRabits;
+        if (numOfLegs % 2 != 0) {
+            console.log("The number of legs should be divided by 2");
+            counter--;
+        } else {
+            console.log("The number of heads is:", `${numOfHeads}`);
+            console.log("The number of legs is:", `${numOfLegs}`);
+            numOfRabits = numOfLegs / 2 - numOfHeads;
+            numOfChicken = numOfHeads - numOfRabits;
 
-        console.log("The number of heads is:", `${numOfHeads}`);
-        console.log("The number of legs is:", `${numOfLegs}`);
-        console.log("The number of chicken is:", `${numOfChicken}`);
-        console.log("The number of rabits is:", `${numOfRabits}`);
-        consolLnrd.close();
+            if (numOfRabits < 0 || numOfChicken < 0) {
+                console.log("There is no answer according to the input number of heads and legs");
+                consolLnrd.close();
+            }
+
+            console.log("The number of chicken is:", `${numOfChicken}`);
+            console.log("The number of rabits is:", `${numOfRabits}`);
+            consolLnrd.close();
+        }
     }
     counter++;
 });
