@@ -21,10 +21,24 @@ consolLnrd.on("line", (input) => {
     }
     if (counter == 3) {
         c = input;
+        console.log("the input sequence is:", `${a}\t${b}\t${c}`);
+        if (a < b && b < c) {
+            console.log("The sorted sequence is:", `${a}\t${b}\t${c}`);
+        }
+        if (a < c && c < b) {
+            console.log("The sorted sequence is:", `${a}\t${c}\t${b}`);
+        }
+        if (b < c && c < a) {
+            console.log("The sorted sequence is:", `${b}\t${c}\t${a}`);
+        }
+        if (c < a && a < b) {
+            console.log("The sorted sequence is:", `${c}\t${a}\t${b}`);
+        }
+        if (c < b && b < a) {
+            console.log("The sorted sequence is:", `${c}\t${b}\t${a}`);
+        }
+        consolLnrd.close();
     }
     counter++;
-    console.log("the input sequence is:", `${a}\t${b}\t${c}`);
-    if (a < b && b < c) {
-        console.log("the sorted sequence is:", `${a}\t${b}\t${c}`);
-    }
+
 });
