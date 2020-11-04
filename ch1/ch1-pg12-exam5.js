@@ -31,6 +31,9 @@ consolLnrd.on("line", (input) => {
         if (b < c && c < a) {
             console.log("The sorted sequence is:", `${b}\t${c}\t${a}`);
         }
+        if (b < a && a < c) {
+            console.log("The sorted sequence is :", `${b}\t${a}\t${c}`);
+        }
         if (c < a && a < b) {
             console.log("The sorted sequence is:", `${c}\t${a}\t${b}`);
         }
