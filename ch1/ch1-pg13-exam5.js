@@ -5,9 +5,7 @@ const consoleLR = lineReader.createInterface({
 consoleLR.on('close', () => {
     process.exit();
 });
-consoleLR.on('open', () => {
-    console.log("Hello ch1-pg13-exam5.js");
-});
+console.log("Hello ch1-pg13-exam5.js");
 
 let a;
 let b;
