@@ -33,6 +33,11 @@ consolLineReader.on('line', (input) => {
             c = a - c;
             a = a - c;
         }
+        if (b > c) {
+            b = b + c;
+            c = b - c;
+            b = b - c;
+        }
         console.log("The sorted sequence is:", `${a}\t${b}\t${c}`);
         consolLineReader.close();
     }
