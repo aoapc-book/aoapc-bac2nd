@@ -9,7 +9,7 @@ cmdLineReader.on('close', () => {
 
 let a;
 let b;
-let counter;
+let counter = 1;
 
 cmdLineReader.on('line', (input) => {
     if (counter === 1) {
@@ -17,7 +17,7 @@ cmdLineReader.on('line', (input) => {
     }
     if (counter === 2) {
         b = input;
-        console.log("The input sequence is:", `${a}\n\n${b}`);
+        console.log("The input sequence is:", `\n${a}\n\n${b}`);
         cmdLineReader.close();
     }
     counter++;
