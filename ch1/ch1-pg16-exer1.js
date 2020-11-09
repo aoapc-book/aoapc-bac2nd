@@ -14,15 +14,16 @@ let c;
 let counter = 1;
 
 cmdLnrd.on('line', (input) => {
-    if (counter === 1) {
+    if (counter == 1) {
         a = parseInt(input);
     }
     if (counter === 2) {
-        b === parseInt(input);
+        b = parseInt(input);
     }
     if (counter === 3) {
-        c === parseInt(input);
+        c = parseInt(input);
         console.log("The input sequence is:", `${a}\t${b}\t${c}`);
+        console.log("The division result is:", `${((a + b + c) / 3).toFixed(3)}`);
         cmdLnrd.close();
     }
     counter++;
