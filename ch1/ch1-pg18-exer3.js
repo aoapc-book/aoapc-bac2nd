@@ -8,7 +8,7 @@ cmdLnreader.on('close', () => {
 });
 
 let n;
-let sum;
+let sum = 0;
 
 cmdLnreader.on('line', (input) => {
     n = parseInt(input);
@@ -16,7 +16,7 @@ cmdLnreader.on('line', (input) => {
     console.log('The input number is:', `\n${n}`);
     console.log('');
     console.log(`The accumlation from 1 to ${n} is:`);
-    while (--n) {
+    while (n--) {
         sum += n;
     }
     console.log(`${sum}`);
