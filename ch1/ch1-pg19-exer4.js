@@ -12,7 +12,7 @@ let n = 0;
 cmdLineRdr.on('line', (input) => {
     n = parseInt(input);
     console.log(`The input degree is: ${n}`);
-    // console.log(`The calculated value of sin(${n}) is: ${sin(n)}`);
-    console.log(`The calculated value of sin(${n}) is:`);
+    console.log(`The calculated value of sin(${n}) is: ${Math.sin(n * Math.PI / 180).toFixed(3)}`);
+    console.log(`The calculated value of sin(${n}) is: ${Math.cos(n * Math.PI / 180).toFixed(3)}`);
     cmdLineRdr.close();
 })
